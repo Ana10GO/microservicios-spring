@@ -1,0 +1,5 @@
+package com.usuario.service.feigns;
+
+public interface CarroFC {
+
+}
